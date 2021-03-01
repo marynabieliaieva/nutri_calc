@@ -20,6 +20,8 @@ parts/
 sdist/
 var/
 wheels/
+pyvenv38/
+.idea/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
